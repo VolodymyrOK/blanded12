@@ -10,3 +10,5 @@
 
 @import url('./layout/header.css');
 @import url('./studio/hero/hero.css');
+@import url('./layout/swiper.css');
+@import url('./layout/modal.css');
