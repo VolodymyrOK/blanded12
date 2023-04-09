@@ -1,0 +1,6 @@
+.hero {
+    padding: 200px;
+    background-color: blueviolet;
+    background-image: url(/img/vite-logo.png);
+    color: var(--main-color);
+}
